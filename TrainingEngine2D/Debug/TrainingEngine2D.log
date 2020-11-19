@@ -1,0 +1,13 @@
+﻿  Button.cpp
+  main.cpp
+  Mouse.cpp
+  noiseutils.cpp
+c:\dev\trainingengine\trainingengine2d\noiseutils\noiseutils.cpp(61): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\dev\trainingengine\trainingengine2d\noiseutils\noiseutils.cpp(62): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\dev\trainingengine\trainingengine2d\noiseutils\noiseutils.cpp(867): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  State.cpp
+c:\dev\trainingengine\trainingengine2d\state.cpp(112): warning C4150: deletion of pointer to incomplete type 'SDL_Texture'; no destructor called
+  c:\dev\sdl2\include\sdl_render.h(138): note: see declaration of 'SDL_Texture'
+  TextureManager.cpp
+  Generating Code...
+  TrainingEngine2D.vcxproj -> C:\DEV\TrainingEngine\Debug\TrainingEngine2D.exe
